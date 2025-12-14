@@ -13,4 +13,10 @@ We conducted experiments in the environment below, but the same version may not 
 - datasets '2.11.0'
 - scikit-learn '1.2.2'
 
-## The Codes Will Be Uploaded Soon ...
+
+## Training
+- bash runs/train_trainer_arts.sh
+
+## Evaluation
+- bash runs/eval_arts.sh
+
