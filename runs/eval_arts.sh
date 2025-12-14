@@ -1,1 +1,1 @@
-python eval_trainer_arts.py --max_tgt_len 168 --train_batch 4 --valid_batch 4 --test_batch 4 --model_path 'results_arts/Arts/checkpoint-10000' --data_path data_rev_cv/rev_fold_0 --output_path output_arts/fold_0 --traits traits
+python eval_trainer_arts.py --max_tgt_len 168 --train_batch 4 --valid_batch 4 --test_batch 4 --model_path 'results_arts/Arts/checkpoint-10000' --data_path data_asap/fold_0 --output_path output_arts/fold_0 --traits traits
