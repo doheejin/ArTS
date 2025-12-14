@@ -3,7 +3,7 @@ This repository is the implementation of the ArTS architecture, introduced in th
 
 
 ## Citation
-Please cite our paper if you find this repository helpful :)
+Please cite our paper if you find this repository helpful 😊
 ```
 @inproceedings{do-etal-2024-autoregressive,
     title = "Autoregressive Score Generation for Multi-trait Essay Scoring",
