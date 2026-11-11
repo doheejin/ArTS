@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 from transformers import T5Tokenizer, T5ForConditionalGeneration
 from datasets import load_dataset
-from ArTS_backup.utils.eval_qwk import Evaluator
+from ArTS.utils.eval_qwk import Evaluator
 import argparse
 
 def main():
